@@ -1,4 +1,4 @@
-package POO.polimorfismo.dois;
+package POO.polimorfismo.exercicios.dois;
 
 public class Funcionario implements Notificacao{
 

@@ -1,4 +1,4 @@
-package POO.polimorfismo.dois;
+package POO.polimorfismo.exercicios.dois;
 
 public class Principal {
     public static void main(String[] args) {
